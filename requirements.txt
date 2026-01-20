@@ -1,0 +1,4 @@
+droidrun[google]
+google-genai
+uiautomator2
+python-dotenv
